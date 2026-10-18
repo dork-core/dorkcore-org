@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
-const REPOSITORY = "https://github.com/corlovich-boop/dorkcoin";
-const RELEASES_API = "https://api.github.com/repos/corlovich-boop/dorkcoin/releases?per_page=30";
+const REPOSITORY = "https://github.com/dork-core/dorkcoin";
+const RELEASES_API = "https://api.github.com/repos/dork-core/dorkcoin/releases?per_page=30";
 
 const platforms = [
   { id: "windows", label: "Windows" },
