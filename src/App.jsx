@@ -205,7 +205,7 @@ function App() {
 
       <footer className="footer">
         <svg className="footer-rocks" viewBox="0 0 1200 90" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><polygon points="120,90 180,40 230,55 280,30 330,90" fill="#0c0c0c" /><polygon points="700,90 760,50 820,62 880,38 930,90" fill="#0a0a0a" /><polygon points="950,90 1010,55 1070,68 1120,90" fill="#0c0c0c" /></svg>
-        <div className="wrap"><div className="footer-meta"><p>© {new Date().getFullYear()} Dork Core.</p><p>The core software for Dorkcoin.</p></div></div>
+        <div className="wrap"><div className="footer-meta"><p>© {new Date().getFullYear()} Dork Core.</p><p>The core of Dorkcoin.</p></div></div>
       </footer>
     </>
   );
