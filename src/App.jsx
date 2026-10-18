@@ -165,7 +165,7 @@ function App() {
         <section className="hero">
           <div className="wrap">
             <div className="hero-copy">
-              <h1>DORK CORE.<br /><span id="frens">The core of DORKCOIN</span>.</h1>
+              <h1>THE CORE OF<br /><span id="frens">DORKCOIN</span>.</h1>
               <div className="eyebrow-divider" />
               <p>Dork Core is the open-source core software for Dorkcoin. Run a node, manage your wallet, and take part in the Proof-of-Stake network.</p>
               <div className="hero-btns">
