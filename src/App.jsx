@@ -78,7 +78,7 @@ function DownloadCenter() {
           <div>
             <span className="section-kicker">DORK CORE · OFFICIAL RELEASES</span>
             <h2>DOWNLOAD DORK CORE.</h2>
-            <p>Get the latest Dork Core release for Windows, Linux, or macOS.</p>
+            <p>Get the latest release for Windows, Linux, or macOS.</p>
           </div>
           {latest && <a className="release-current" href={latest.html_url} target="_blank" rel="noreferrer">
             <span className="status-dot" /> LATEST RELEASE <strong>{latest.tag_name}</strong>
