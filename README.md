@@ -20,3 +20,5 @@ npm run build
 ```
 
 Deploy the project on Vercel using the Vite framework preset. The default build command is `npm run build` and the output directory is `dist`.
+
+Vercel Web Analytics is integrated using `@vercel/analytics/react`. Enable Web Analytics in the Vercel project dashboard and deploy the site to start collecting page views.
